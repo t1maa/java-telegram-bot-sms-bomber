@@ -1,6 +1,9 @@
 ﻿# Telegram Bot SMS Bomber 💣 (Java Library) 
 Very simple telegram bot that uses [TelegramBots](https://github.com/rubenlagus/TelegramBots) library. The bot has 26 services for sending sms.
 
+## Disclaimer
+This material was taken from the public information and provided for informational purposes only! I do not encourage you to repeat all the actions and I do not bear responsibility for this!
+
 ## Telegram Bot API
 This library use [Telegram bot API](https://core.telegram.org/bots), you can find more information following the link.
 
